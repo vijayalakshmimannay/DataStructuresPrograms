@@ -8,9 +8,7 @@ namespace DatastructurePrograms
     {
         static void Main(String[] args)
         {
-            //Console.WriteLine(Simple Balanced Paranthesis);
-            //int option = Convert.ToInt32(Console.ReadLine());
-            //BalanceParentheses check = new BalanceParentheses();
+            
 
             DataStructurePrograms.BalancedParantheses value = new DataStructurePrograms.BalancedParantheses();
             value.IsBalancedParentheses();
